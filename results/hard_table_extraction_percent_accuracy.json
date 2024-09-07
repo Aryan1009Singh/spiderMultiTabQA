@@ -1,0 +1,222 @@
+{
+    "apartment_rentals": {
+        "Accuracy": 100.0,
+        "Correct": 80,
+        "Incorrect": 0
+    },
+    "assets_maintenance": {
+        "Accuracy": 90.32258064516128,
+        "Correct": 28,
+        "Incorrect": 3
+    },
+    "baseball_1": {
+        "Accuracy": 63.41463414634146,
+        "Correct": 52,
+        "Incorrect": 30
+    },
+    "behavior_monitoring": {
+        "Accuracy": 100.0,
+        "Correct": 40,
+        "Incorrect": 0
+    },
+    "college_2": {
+        "Accuracy": 77.64705882352942,
+        "Correct": 132,
+        "Incorrect": 38
+    },
+    "college_3": {
+        "Accuracy": 98.64864864864865,
+        "Correct": 73,
+        "Incorrect": 1
+    },
+    "cre_Docs_and_Epenses": {
+        "Accuracy": 100.0,
+        "Correct": 84,
+        "Incorrect": 0
+    },
+    "cre_Doc_Control_Systems": {
+        "Accuracy": 100.0,
+        "Correct": 33,
+        "Incorrect": 0
+    },
+    "cre_Doc_Tracking_DB": {
+        "Accuracy": 100.0,
+        "Correct": 90,
+        "Incorrect": 0
+    },
+    "cre_Drama_Workshop_Groups": {
+        "Accuracy": 91.46341463414635,
+        "Correct": 75,
+        "Incorrect": 7
+    },
+    "cre_Theme_park": {
+        "Accuracy": 86.90476190476191,
+        "Correct": 73,
+        "Incorrect": 11
+    },
+    "csu_1": {
+        "Accuracy": 98.57142857142858,
+        "Correct": 69,
+        "Incorrect": 1
+    },
+    "customers_and_addresses": {
+        "Accuracy": 100.0,
+        "Correct": 88,
+        "Incorrect": 0
+    },
+    "customers_and_invoices": {
+        "Accuracy": 98.78048780487805,
+        "Correct": 81,
+        "Incorrect": 1
+    },
+    "customers_and_products_contacts": {
+        "Accuracy": 100.0,
+        "Correct": 15,
+        "Incorrect": 0
+    },
+    "customers_campaigns_ecommerce": {
+        "Accuracy": 100.0,
+        "Correct": 15,
+        "Incorrect": 0
+    },
+    "customer_deliveries": {
+        "Accuracy": 100.0,
+        "Correct": 16,
+        "Incorrect": 0
+    },
+    "department_store": {
+        "Accuracy": 90.9090909090909,
+        "Correct": 80,
+        "Incorrect": 8
+    },
+    "document_management": {
+        "Accuracy": 100.0,
+        "Correct": 44,
+        "Incorrect": 0
+    },
+    "driving_school": {
+        "Accuracy": 100.0,
+        "Correct": 93,
+        "Incorrect": 0
+    },
+    "e_government": {
+        "Accuracy": 100.0,
+        "Correct": 40,
+        "Incorrect": 0
+    },
+    "e_learning": {
+        "Accuracy": 98.78048780487805,
+        "Correct": 81,
+        "Incorrect": 1
+    },
+    "formula_1": {
+        "Accuracy": 86.25,
+        "Correct": 69,
+        "Incorrect": 11
+    },
+    "hospital_1": {
+        "Accuracy": 77.0,
+        "Correct": 77,
+        "Incorrect": 23
+    },
+    "hr_1": {
+        "Accuracy": 97.58064516129032,
+        "Correct": 121,
+        "Incorrect": 3
+    },
+    "insurance_and_eClaims": {
+        "Accuracy": 97.5,
+        "Correct": 39,
+        "Incorrect": 1
+    },
+    "insurance_fnol": {
+        "Accuracy": 100.0,
+        "Correct": 42,
+        "Incorrect": 0
+    },
+    "local_govt_and_lot": {
+        "Accuracy": 100.0,
+        "Correct": 17,
+        "Incorrect": 0
+    },
+    "local_govt_mdm": {
+        "Accuracy": 71.42857142857143,
+        "Correct": 10,
+        "Incorrect": 4
+    },
+    "music_2": {
+        "Accuracy": 95.0,
+        "Correct": 95,
+        "Incorrect": 5
+    },
+    "products_for_hire": {
+        "Accuracy": 94.44444444444444,
+        "Correct": 17,
+        "Incorrect": 1
+    },
+    "products_gen_characteristics": {
+        "Accuracy": 93.02325581395348,
+        "Correct": 80,
+        "Incorrect": 6
+    },
+    "sakila_1": {
+        "Accuracy": 93.90243902439023,
+        "Correct": 77,
+        "Incorrect": 5
+    },
+    "solvency_ii": {
+        "Accuracy": 100.0,
+        "Correct": 15,
+        "Incorrect": 0
+    },
+    "store_1": {
+        "Accuracy": 94.64285714285714,
+        "Correct": 106,
+        "Incorrect": 6
+    },
+    "student_assessment": {
+        "Accuracy": 100.0,
+        "Correct": 53,
+        "Incorrect": 0
+    },
+    "tracking_grants_for_research": {
+        "Accuracy": 93.58974358974359,
+        "Correct": 73,
+        "Incorrect": 5
+    },
+    "tracking_orders": {
+        "Accuracy": 100.0,
+        "Correct": 60,
+        "Incorrect": 0
+    },
+    "tracking_share_transactions": {
+        "Accuracy": 100.0,
+        "Correct": 41,
+        "Incorrect": 0
+    },
+    "tracking_software_problems": {
+        "Accuracy": 95.83333333333334,
+        "Correct": 46,
+        "Incorrect": 2
+    },
+    "chinook_1": {
+        "Accuracy": 100.0,
+        "Correct": 84,
+        "Incorrect": 0
+    },
+    "college_1": {
+        "Accuracy": 81.70731707317073,
+        "Correct": 134,
+        "Incorrect": 30
+    },
+    "company_1": {
+        "Accuracy": 100.0,
+        "Correct": 7,
+        "Incorrect": 0
+    },
+    "soccer_1": {
+        "Accuracy": 92.85714285714286,
+        "Correct": 13,
+        "Incorrect": 1
+    }
+}

@@ -1,0 +1,482 @@
+{
+    "activity_1": {
+        "Accuracy": 100.0,
+        "Correct": 88,
+        "Incorrect": 0
+    },
+    "aircraft": {
+        "Accuracy": 100.0,
+        "Correct": 46,
+        "Incorrect": 0
+    },
+    "allergy_1": {
+        "Accuracy": 100.0,
+        "Correct": 98,
+        "Incorrect": 0
+    },
+    "architecture": {
+        "Accuracy": 100.0,
+        "Correct": 17,
+        "Incorrect": 0
+    },
+    "bike_1": {
+        "Accuracy": 100.0,
+        "Correct": 104,
+        "Incorrect": 0
+    },
+    "body_builder": {
+        "Accuracy": 100.0,
+        "Correct": 24,
+        "Incorrect": 0
+    },
+    "book_2": {
+        "Accuracy": 100.0,
+        "Correct": 21,
+        "Incorrect": 0
+    },
+    "browser_web": {
+        "Accuracy": 100.0,
+        "Correct": 18,
+        "Incorrect": 0
+    },
+    "candidate_poll": {
+        "Accuracy": 100.0,
+        "Correct": 40,
+        "Incorrect": 0
+    },
+    "cinema": {
+        "Accuracy": 100.0,
+        "Correct": 30,
+        "Incorrect": 0
+    },
+    "city_record": {
+        "Accuracy": 100.0,
+        "Correct": 40,
+        "Incorrect": 0
+    },
+    "climbing": {
+        "Accuracy": 100.0,
+        "Correct": 40,
+        "Incorrect": 0
+    },
+    "club_1": {
+        "Accuracy": 100.0,
+        "Correct": 70,
+        "Incorrect": 0
+    },
+    "coffee_shop": {
+        "Accuracy": 100.0,
+        "Correct": 18,
+        "Incorrect": 0
+    },
+    "company_employee": {
+        "Accuracy": 100.0,
+        "Correct": 16,
+        "Incorrect": 0
+    },
+    "company_office": {
+        "Accuracy": 100.0,
+        "Correct": 40,
+        "Incorrect": 0
+    },
+    "county_public_safety": {
+        "Accuracy": 100.0,
+        "Correct": 40,
+        "Incorrect": 0
+    },
+    "culture_company": {
+        "Accuracy": 100.0,
+        "Correct": 38,
+        "Incorrect": 0
+    },
+    "customers_card_transactions": {
+        "Accuracy": 100.0,
+        "Correct": 80,
+        "Incorrect": 0
+    },
+    "customer_complaints": {
+        "Accuracy": 100.0,
+        "Correct": 46,
+        "Incorrect": 0
+    },
+    "debate": {
+        "Accuracy": 100.0,
+        "Correct": 15,
+        "Incorrect": 0
+    },
+    "decoration_competition": {
+        "Accuracy": 100.0,
+        "Correct": 15,
+        "Incorrect": 0
+    },
+    "department_management": {
+        "Accuracy": 100.0,
+        "Correct": 16,
+        "Incorrect": 0
+    },
+    "device": {
+        "Accuracy": 100.0,
+        "Correct": 40,
+        "Incorrect": 0
+    },
+    "dorm_1": {
+        "Accuracy": 100.0,
+        "Correct": 100,
+        "Incorrect": 0
+    },
+    "election": {
+        "Accuracy": 100.0,
+        "Correct": 68,
+        "Incorrect": 0
+    },
+    "election_representative": {
+        "Accuracy": 100.0,
+        "Correct": 20,
+        "Incorrect": 0
+    },
+    "entertainment_awards": {
+        "Accuracy": 100.0,
+        "Correct": 22,
+        "Incorrect": 0
+    },
+    "entrepreneur": {
+        "Accuracy": 100.0,
+        "Correct": 40,
+        "Incorrect": 0
+    },
+    "farm": {
+        "Accuracy": 100.0,
+        "Correct": 40,
+        "Incorrect": 0
+    },
+    "film_rank": {
+        "Accuracy": 100.0,
+        "Correct": 48,
+        "Incorrect": 0
+    },
+    "flight_1": {
+        "Accuracy": 100.0,
+        "Correct": 96,
+        "Incorrect": 0
+    },
+    "flight_company": {
+        "Accuracy": 100.0,
+        "Correct": 19,
+        "Incorrect": 0
+    },
+    "game_1": {
+        "Accuracy": 100.0,
+        "Correct": 86,
+        "Incorrect": 0
+    },
+    "game_injury": {
+        "Accuracy": 100.0,
+        "Correct": 19,
+        "Incorrect": 0
+    },
+    "gas_company": {
+        "Accuracy": 100.0,
+        "Correct": 46,
+        "Incorrect": 0
+    },
+    "gymnast": {
+        "Accuracy": 100.0,
+        "Correct": 40,
+        "Incorrect": 0
+    },
+    "icfp_1": {
+        "Accuracy": 100.0,
+        "Correct": 66,
+        "Incorrect": 0
+    },
+    "inn_1": {
+        "Accuracy": 100.0,
+        "Correct": 74,
+        "Incorrect": 0
+    },
+    "insurance_policies": {
+        "Accuracy": 100.0,
+        "Correct": 48,
+        "Incorrect": 0
+    },
+    "journal_committee": {
+        "Accuracy": 100.0,
+        "Correct": 18,
+        "Incorrect": 0
+    },
+    "loan_1": {
+        "Accuracy": 100.0,
+        "Correct": 80,
+        "Incorrect": 0
+    },
+    "local_govt_in_alabama": {
+        "Accuracy": 100.0,
+        "Correct": 15,
+        "Incorrect": 0
+    },
+    "machine_repair": {
+        "Accuracy": 100.0,
+        "Correct": 30,
+        "Incorrect": 0
+    },
+    "manufactory_1": {
+        "Accuracy": 100.0,
+        "Correct": 80,
+        "Incorrect": 0
+    },
+    "manufacturer": {
+        "Accuracy": 100.0,
+        "Correct": 16,
+        "Incorrect": 0
+    },
+    "match_season": {
+        "Accuracy": 100.0,
+        "Correct": 58,
+        "Incorrect": 0
+    },
+    "medicine_enzyme_interaction": {
+        "Accuracy": 100.0,
+        "Correct": 44,
+        "Incorrect": 0
+    },
+    "mountain_photos": {
+        "Accuracy": 100.0,
+        "Correct": 17,
+        "Incorrect": 0
+    },
+    "movie_1": {
+        "Accuracy": 100.0,
+        "Correct": 98,
+        "Incorrect": 0
+    },
+    "musical": {
+        "Accuracy": 100.0,
+        "Correct": 40,
+        "Incorrect": 0
+    },
+    "music_1": {
+        "Accuracy": 100.0,
+        "Correct": 100,
+        "Incorrect": 0
+    },
+    "music_4": {
+        "Accuracy": 100.0,
+        "Correct": 60,
+        "Incorrect": 0
+    },
+    "network_2": {
+        "Accuracy": 100.0,
+        "Correct": 86,
+        "Incorrect": 0
+    },
+    "news_report": {
+        "Accuracy": 100.0,
+        "Correct": 18,
+        "Incorrect": 0
+    },
+    "party_host": {
+        "Accuracy": 100.0,
+        "Correct": 30,
+        "Incorrect": 0
+    },
+    "party_people": {
+        "Accuracy": 100.0,
+        "Correct": 44,
+        "Incorrect": 0
+    },
+    "performance_attendance": {
+        "Accuracy": 100.0,
+        "Correct": 15,
+        "Incorrect": 0
+    },
+    "perpetrator": {
+        "Accuracy": 0.0,
+        "Correct": 0,
+        "Incorrect": 21
+    },
+    "phone_1": {
+        "Accuracy": 100.0,
+        "Correct": 29,
+        "Incorrect": 0
+    },
+    "phone_market": {
+        "Accuracy": 100.0,
+        "Correct": 15,
+        "Incorrect": 0
+    },
+    "pilot_record": {
+        "Accuracy": 100.0,
+        "Correct": 15,
+        "Incorrect": 0
+    },
+    "product_catalog": {
+        "Accuracy": 100.0,
+        "Correct": 42,
+        "Incorrect": 0
+    },
+    "program_share": {
+        "Accuracy": 100.0,
+        "Correct": 40,
+        "Incorrect": 0
+    },
+    "protein_institute": {
+        "Accuracy": 100.0,
+        "Correct": 20,
+        "Incorrect": 0
+    },
+    "race_track": {
+        "Accuracy": 100.0,
+        "Correct": 42,
+        "Incorrect": 0
+    },
+    "railway": {
+        "Accuracy": 100.0,
+        "Correct": 21,
+        "Incorrect": 0
+    },
+    "restaurant_1": {
+        "Accuracy": 100.0,
+        "Correct": 22,
+        "Incorrect": 0
+    },
+    "riding_club": {
+        "Accuracy": 100.0,
+        "Correct": 17,
+        "Incorrect": 0
+    },
+    "roller_coaster": {
+        "Accuracy": 100.0,
+        "Correct": 17,
+        "Incorrect": 0
+    },
+    "school_bus": {
+        "Accuracy": 100.0,
+        "Correct": 18,
+        "Incorrect": 0
+    },
+    "school_finance": {
+        "Accuracy": 100.0,
+        "Correct": 26,
+        "Incorrect": 0
+    },
+    "school_player": {
+        "Accuracy": 100.0,
+        "Correct": 40,
+        "Incorrect": 0
+    },
+    "scientist_1": {
+        "Accuracy": 100.0,
+        "Correct": 48,
+        "Incorrect": 0
+    },
+    "ship_1": {
+        "Accuracy": 100.0,
+        "Correct": 48,
+        "Incorrect": 0
+    },
+    "ship_mission": {
+        "Accuracy": 100.0,
+        "Correct": 30,
+        "Incorrect": 0
+    },
+    "shop_membership": {
+        "Accuracy": 100.0,
+        "Correct": 44,
+        "Incorrect": 0
+    },
+    "soccer_2": {
+        "Accuracy": 100.0,
+        "Correct": 106,
+        "Incorrect": 0
+    },
+    "sports_competition": {
+        "Accuracy": 100.0,
+        "Correct": 52,
+        "Incorrect": 0
+    },
+    "station_weather": {
+        "Accuracy": 100.0,
+        "Correct": 16,
+        "Incorrect": 0
+    },
+    "store_product": {
+        "Accuracy": 100.0,
+        "Correct": 44,
+        "Incorrect": 0
+    },
+    "storm_record": {
+        "Accuracy": 100.0,
+        "Correct": 44,
+        "Incorrect": 0
+    },
+    "student_1": {
+        "Accuracy": 100.0,
+        "Correct": 68,
+        "Incorrect": 0
+    },
+    "swimming": {
+        "Accuracy": 100.0,
+        "Correct": 30,
+        "Incorrect": 0
+    },
+    "theme_gallery": {
+        "Accuracy": 100.0,
+        "Correct": 40,
+        "Incorrect": 0
+    },
+    "train_station": {
+        "Accuracy": 100.0,
+        "Correct": 23,
+        "Incorrect": 0
+    },
+    "university_basketball": {
+        "Accuracy": 100.0,
+        "Correct": 46,
+        "Incorrect": 0
+    },
+    "voter_2": {
+        "Accuracy": 100.0,
+        "Correct": 72,
+        "Incorrect": 0
+    },
+    "wedding": {
+        "Accuracy": 100.0,
+        "Correct": 20,
+        "Incorrect": 0
+    },
+    "wine_1": {
+        "Accuracy": 100.0,
+        "Correct": 82,
+        "Incorrect": 0
+    },
+    "workshop_paper": {
+        "Accuracy": 100.0,
+        "Correct": 30,
+        "Incorrect": 0
+    },
+    "wrestler": {
+        "Accuracy": 100.0,
+        "Correct": 40,
+        "Incorrect": 0
+    },
+    "epinions_1": {
+        "Accuracy": 100.0,
+        "Correct": 30,
+        "Incorrect": 0
+    },
+    "flight_4": {
+        "Accuracy": 100.0,
+        "Correct": 82,
+        "Incorrect": 0
+    },
+    "small_bank_1": {
+        "Accuracy": 100.0,
+        "Correct": 50,
+        "Incorrect": 0
+    },
+    "twitter_1": {
+        "Accuracy": 100.0,
+        "Correct": 27,
+        "Incorrect": 0
+    }
+}

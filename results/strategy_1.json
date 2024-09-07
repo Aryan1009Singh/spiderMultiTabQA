@@ -1,0 +1,697 @@
+{
+    "activity_1": {
+        "recall": 0.8846153846153846,
+        "precision": 0.5575757575757576,
+        "accuracy": 75.0
+    },
+    "aircraft": {
+        "recall": 0.8928571428571429,
+        "precision": 0.5208333333333334,
+        "accuracy": 75.0
+    },
+    "allergy_1": {
+        "recall": 1.0,
+        "precision": 0.7948717948717948,
+        "accuracy": 100.0
+    },
+    "apartment_rentals": {
+        "recall": 1.0,
+        "precision": 0.5396825396825397,
+        "accuracy": 100.0
+    },
+    "architecture": {
+        "recall": 1.0,
+        "precision": 0.7407407407407407,
+        "accuracy": 100.0
+    },
+    "assets_maintenance": {
+        "recall": 0.8490566037735849,
+        "precision": 0.5625,
+        "accuracy": 65.21739130434783
+    },
+    "baseball_1": {
+        "recall": 0.7129629629629629,
+        "precision": 0.3737864077669903,
+        "accuracy": 42.30769230769231
+    },
+    "behavior_monitoring": {
+        "recall": 0.8888888888888888,
+        "precision": 0.46511627906976744,
+        "accuracy": 77.27272727272727
+    },
+    "bike_1": {
+        "recall": 1.0,
+        "precision": 0.5588235294117647,
+        "accuracy": 100.0
+    },
+    "body_builder": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "book_2": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "browser_web": {
+        "recall": 1.0,
+        "precision": 0.8888888888888888,
+        "accuracy": 100.0
+    },
+    "candidate_poll": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "cinema": {
+        "recall": 1.0,
+        "precision": 0.7222222222222222,
+        "accuracy": 100.0
+    },
+    "city_record": {
+        "recall": 0.9807692307692307,
+        "precision": 0.7183098591549296,
+        "accuracy": 95.45454545454545
+    },
+    "climbing": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "club_1": {
+        "recall": 1.0,
+        "precision": 0.9733333333333334,
+        "accuracy": 100.0
+    },
+    "coffee_shop": {
+        "recall": 1.0,
+        "precision": 0.6666666666666666,
+        "accuracy": 100.0
+    },
+    "college_2": {
+        "recall": 0.7307692307692307,
+        "precision": 0.4453125,
+        "accuracy": 39.39393939393939
+    },
+    "college_3": {
+        "recall": 0.8918918918918919,
+        "precision": 0.528,
+        "accuracy": 75.0
+    },
+    "company_employee": {
+        "recall": 1.0,
+        "precision": 0.9333333333333333,
+        "accuracy": 100.0
+    },
+    "company_office": {
+        "recall": 1.0,
+        "precision": 0.9166666666666666,
+        "accuracy": 100.0
+    },
+    "county_public_safety": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "cre_Docs_and_Epenses": {
+        "recall": 1.0,
+        "precision": 0.509090909090909,
+        "accuracy": 100.0
+    },
+    "cre_Doc_Control_Systems": {
+        "recall": 1.0,
+        "precision": 0.4727272727272727,
+        "accuracy": 100.0
+    },
+    "cre_Doc_Tracking_DB": {
+        "recall": 1.0,
+        "precision": 0.5227272727272727,
+        "accuracy": 100.0
+    },
+    "cre_Drama_Workshop_Groups": {
+        "recall": 0.825,
+        "precision": 0.4230769230769231,
+        "accuracy": 65.78947368421053
+    },
+    "cre_Theme_park": {
+        "recall": 0.6702127659574468,
+        "precision": 0.3772455089820359,
+        "accuracy": 42.857142857142854
+    },
+    "csu_1": {
+        "recall": 0.868421052631579,
+        "precision": 0.5116279069767442,
+        "accuracy": 72.22222222222221
+    },
+    "culture_company": {
+        "recall": 1.0,
+        "precision": 0.7777777777777778,
+        "accuracy": 100.0
+    },
+    "customers_and_addresses": {
+        "recall": 0.9741379310344828,
+        "precision": 0.6890243902439024,
+        "accuracy": 93.18181818181817
+    },
+    "customers_and_invoices": {
+        "recall": 0.9878048780487805,
+        "precision": 0.4682080924855491,
+        "accuracy": 97.5
+    },
+    "customers_and_products_contacts": {
+        "recall": 1.0,
+        "precision": 0.6666666666666666,
+        "accuracy": 100.0
+    },
+    "customers_campaigns_ecommerce": {
+        "recall": 0.9285714285714286,
+        "precision": 0.40625,
+        "accuracy": 85.71428571428571
+    },
+    "customers_card_transactions": {
+        "recall": 1.0,
+        "precision": 0.5306122448979592,
+        "accuracy": 100.0
+    },
+    "customer_complaints": {
+        "recall": 1.0,
+        "precision": 0.6285714285714286,
+        "accuracy": 100.0
+    },
+    "customer_deliveries": {
+        "recall": 1.0,
+        "precision": 0.5185185185185185,
+        "accuracy": 100.0
+    },
+    "debate": {
+        "recall": 1.0,
+        "precision": 0.8333333333333334,
+        "accuracy": 100.0
+    },
+    "decoration_competition": {
+        "recall": 1.0,
+        "precision": 0.6666666666666666,
+        "accuracy": 100.0
+    },
+    "department_management": {
+        "recall": 1.0,
+        "precision": 0.7777777777777778,
+        "accuracy": 100.0
+    },
+    "department_store": {
+        "recall": 0.82,
+        "precision": 0.47126436781609193,
+        "accuracy": 77.27272727272727
+    },
+    "device": {
+        "recall": 1.0,
+        "precision": 0.7142857142857143,
+        "accuracy": 100.0
+    },
+    "document_management": {
+        "recall": 0.84375,
+        "precision": 0.574468085106383,
+        "accuracy": 64.28571428571429
+    },
+    "dorm_1": {
+        "recall": 0.8571428571428571,
+        "precision": 0.7248322147651006,
+        "accuracy": 60.0
+    },
+    "driving_school": {
+        "recall": 0.9777777777777777,
+        "precision": 0.49162011173184356,
+        "accuracy": 95.55555555555556
+    },
+    "election": {
+        "recall": 1.0,
+        "precision": 0.6666666666666666,
+        "accuracy": 100.0
+    },
+    "election_representative": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "entertainment_awards": {
+        "recall": 1.0,
+        "precision": 0.9523809523809523,
+        "accuracy": 100.0
+    },
+    "entrepreneur": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "e_government": {
+        "recall": 0.9722222222222222,
+        "precision": 0.5737704918032787,
+        "accuracy": 93.75
+    },
+    "e_learning": {
+        "recall": 0.96875,
+        "precision": 0.5406976744186046,
+        "accuracy": 93.75
+    },
+    "farm": {
+        "recall": 1.0,
+        "precision": 0.6451612903225806,
+        "accuracy": 100.0
+    },
+    "film_rank": {
+        "recall": 1.0,
+        "precision": 0.7083333333333334,
+        "accuracy": 100.0
+    },
+    "flight_1": {
+        "recall": 0.967741935483871,
+        "precision": 0.6,
+        "accuracy": 92.3076923076923
+    },
+    "flight_company": {
+        "recall": 1.0,
+        "precision": 0.7083333333333334,
+        "accuracy": 100.0
+    },
+    "formula_1": {
+        "recall": 0.7288135593220338,
+        "precision": 0.4942528735632184,
+        "accuracy": 52.0
+    },
+    "game_1": {
+        "recall": 0.9705882352941176,
+        "precision": 0.616822429906542,
+        "accuracy": 93.75
+    },
+    "game_injury": {
+        "recall": 1.0,
+        "precision": 0.8181818181818182,
+        "accuracy": 100.0
+    },
+    "gas_company": {
+        "recall": 1.0,
+        "precision": 0.8666666666666667,
+        "accuracy": 100.0
+    },
+    "gymnast": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "hospital_1": {
+        "recall": 0.8061224489795918,
+        "precision": 0.535593220338983,
+        "accuracy": 52.63157894736842
+    },
+    "hr_1": {
+        "recall": 0.8292682926829268,
+        "precision": 0.5714285714285714,
+        "accuracy": 67.64705882352942
+    },
+    "inn_1": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "insurance_and_eClaims": {
+        "recall": 0.7708333333333334,
+        "precision": 0.43023255813953487,
+        "accuracy": 68.18181818181817
+    },
+    "insurance_fnol": {
+        "recall": 0.9166666666666666,
+        "precision": 0.5116279069767442,
+        "accuracy": 80.0
+    },
+    "insurance_policies": {
+        "recall": 1.0,
+        "precision": 0.6071428571428571,
+        "accuracy": 100.0
+    },
+    "journal_committee": {
+        "recall": 1.0,
+        "precision": 0.8148148148148148,
+        "accuracy": 100.0
+    },
+    "loan_1": {
+        "recall": 1.0,
+        "precision": 0.7058823529411765,
+        "accuracy": 100.0
+    },
+    "local_govt_and_lot": {
+        "recall": 0.9545454545454546,
+        "precision": 0.4883720930232558,
+        "accuracy": 90.9090909090909
+    },
+    "local_govt_in_alabama": {
+        "recall": 1.0,
+        "precision": 0.7037037037037037,
+        "accuracy": 100.0
+    },
+    "local_govt_mdm": {
+        "recall": 0.5789473684210527,
+        "precision": 0.3142857142857143,
+        "accuracy": 33.33333333333333
+    },
+    "machine_repair": {
+        "recall": 1.0,
+        "precision": 0.7878787878787878,
+        "accuracy": 100.0
+    },
+    "manufactory_1": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "manufacturer": {
+        "recall": 1.0,
+        "precision": 0.7222222222222222,
+        "accuracy": 100.0
+    },
+    "match_season": {
+        "recall": 0.95,
+        "precision": 0.5816326530612245,
+        "accuracy": 90.0
+    },
+    "medicine_enzyme_interaction": {
+        "recall": 1.0,
+        "precision": 0.7666666666666667,
+        "accuracy": 100.0
+    },
+    "mountain_photos": {
+        "recall": 1.0,
+        "precision": 0.7407407407407407,
+        "accuracy": 100.0
+    },
+    "movie_1": {
+        "recall": 0.6515151515151515,
+        "precision": 0.7166666666666667,
+        "accuracy": 23.333333333333332
+    },
+    "musical": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "music_1": {
+        "recall": 0.9903846153846154,
+        "precision": 0.5421052631578948,
+        "accuracy": 98.07692307692307
+    },
+    "music_2": {
+        "recall": 0.8548387096774194,
+        "precision": 0.5618374558303887,
+        "accuracy": 66.21621621621621
+    },
+    "music_4": {
+        "recall": 1.0,
+        "precision": 0.6666666666666666,
+        "accuracy": 100.0
+    },
+    "network_2": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "news_report": {
+        "recall": 1.0,
+        "precision": 0.8888888888888888,
+        "accuracy": 100.0
+    },
+    "party_host": {
+        "recall": 1.0,
+        "precision": 0.9333333333333333,
+        "accuracy": 100.0
+    },
+    "party_people": {
+        "recall": 0.9782608695652174,
+        "precision": 0.6716417910447762,
+        "accuracy": 95.45454545454545
+    },
+    "performance_attendance": {
+        "recall": 1.0,
+        "precision": 0.9333333333333333,
+        "accuracy": 100.0
+    },
+    "perpetrator": {
+        "recall": 0.0,
+        "precision": 0,
+        "accuracy": 0.0
+    },
+    "phone_1": {
+        "recall": 1.0,
+        "precision": 0.7333333333333333,
+        "accuracy": 100.0
+    },
+    "phone_market": {
+        "recall": 1.0,
+        "precision": 0.8333333333333334,
+        "accuracy": 100.0
+    },
+    "pilot_record": {
+        "recall": 1.0,
+        "precision": 0.8333333333333334,
+        "accuracy": 100.0
+    },
+    "products_for_hire": {
+        "recall": 0.8823529411764706,
+        "precision": 0.5172413793103449,
+        "accuracy": 75.0
+    },
+    "products_gen_characteristics": {
+        "recall": 0.8486842105263158,
+        "precision": 0.57847533632287,
+        "accuracy": 65.51724137931035
+    },
+    "product_catalog": {
+        "recall": 0.95,
+        "precision": 0.5135135135135135,
+        "accuracy": 90.0
+    },
+    "program_share": {
+        "recall": 1.0,
+        "precision": 0.6060606060606061,
+        "accuracy": 100.0
+    },
+    "protein_institute": {
+        "recall": 1.0,
+        "precision": 0.7037037037037037,
+        "accuracy": 100.0
+    },
+    "race_track": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "railway": {
+        "recall": 1.0,
+        "precision": 0.6666666666666666,
+        "accuracy": 100.0
+    },
+    "restaurant_1": {
+        "recall": 0.9333333333333333,
+        "precision": 0.6363636363636364,
+        "accuracy": 83.33333333333334
+    },
+    "riding_club": {
+        "recall": 1.0,
+        "precision": 0.6206896551724138,
+        "accuracy": 100.0
+    },
+    "roller_coaster": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "sakila_1": {
+        "recall": 0.8555555555555555,
+        "precision": 0.4556213017751479,
+        "accuracy": 76.19047619047619
+    },
+    "school_bus": {
+        "recall": 1.0,
+        "precision": 0.7333333333333333,
+        "accuracy": 100.0
+    },
+    "school_finance": {
+        "recall": 1.0,
+        "precision": 0.7037037037037037,
+        "accuracy": 100.0
+    },
+    "school_player": {
+        "recall": 0.85,
+        "precision": 0.4857142857142857,
+        "accuracy": 70.0
+    },
+    "scientist_1": {
+        "recall": 1.0,
+        "precision": 0.8222222222222222,
+        "accuracy": 100.0
+    },
+    "ship_1": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "ship_mission": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "shop_membership": {
+        "recall": 0.975,
+        "precision": 0.6,
+        "accuracy": 94.44444444444444
+    },
+    "soccer_2": {
+        "recall": 1.0,
+        "precision": 0.7017543859649122,
+        "accuracy": 100.0
+    },
+    "solvency_ii": {
+        "recall": 0.9,
+        "precision": 0.5,
+        "accuracy": 80.0
+    },
+    "sports_competition": {
+        "recall": 1.0,
+        "precision": 0.5161290322580645,
+        "accuracy": 100.0
+    },
+    "station_weather": {
+        "recall": 1.0,
+        "precision": 0.65,
+        "accuracy": 100.0
+    },
+    "store_1": {
+        "recall": 0.9122807017543859,
+        "precision": 0.5445026178010471,
+        "accuracy": 86.0
+    },
+    "store_product": {
+        "recall": 1.0,
+        "precision": 0.7924528301886793,
+        "accuracy": 100.0
+    },
+    "storm_record": {
+        "recall": 1.0,
+        "precision": 0.7777777777777778,
+        "accuracy": 100.0
+    },
+    "student_1": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "student_assessment": {
+        "recall": 0.8875,
+        "precision": 0.5378787878787878,
+        "accuracy": 75.67567567567568
+    },
+    "swimming": {
+        "recall": 0.96,
+        "precision": 0.5581395348837209,
+        "accuracy": 90.9090909090909
+    },
+    "theme_gallery": {
+        "recall": 1.0,
+        "precision": 0.7037037037037037,
+        "accuracy": 100.0
+    },
+    "tracking_grants_for_research": {
+        "recall": 0.8545454545454545,
+        "precision": 0.5433526011560693,
+        "accuracy": 73.91304347826086
+    },
+    "tracking_orders": {
+        "recall": 0.8478260869565217,
+        "precision": 0.527027027027027,
+        "accuracy": 65.0
+    },
+    "tracking_share_transactions": {
+        "recall": 1.0,
+        "precision": 0.5573770491803278,
+        "accuracy": 100.0
+    },
+    "tracking_software_problems": {
+        "recall": 0.8529411764705882,
+        "precision": 0.48739495798319327,
+        "accuracy": 68.75
+    },
+    "train_station": {
+        "recall": 1.0,
+        "precision": 0.8333333333333334,
+        "accuracy": 100.0
+    },
+    "university_basketball": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "voter_2": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "wedding": {
+        "recall": 1.0,
+        "precision": 0.7222222222222222,
+        "accuracy": 100.0
+    },
+    "wine_1": {
+        "recall": 1.0,
+        "precision": 0.6666666666666666,
+        "accuracy": 100.0
+    },
+    "workshop_paper": {
+        "recall": 1.0,
+        "precision": 0.6666666666666666,
+        "accuracy": 100.0
+    },
+    "wrestler": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "accuracy": 100.0
+    },
+    "chinook_1": {
+        "recall": 0.9622641509433962,
+        "precision": 0.49514563106796117,
+        "accuracy": 92.3076923076923
+    },
+    "college_1": {
+        "recall": 0.7444444444444445,
+        "precision": 0.5461956521739131,
+        "accuracy": 44.0
+    },
+    "company_1": {
+        "recall": 1.0,
+        "precision": 0.6666666666666666,
+        "accuracy": 100.0
+    },
+    "epinions_1": {
+        "recall": 1.0,
+        "precision": 0.6086956521739131,
+        "accuracy": 100.0
+    },
+    "flight_4": {
+        "recall": 1.0,
+        "precision": 0.6862745098039216,
+        "accuracy": 100.0
+    },
+    "small_bank_1": {
+        "recall": 1.0,
+        "precision": 0.8666666666666667,
+        "accuracy": 100.0
+    },
+    "soccer_1": {
+        "recall": 0.95,
+        "precision": 0.48717948717948717,
+        "accuracy": 90.0
+    },
+    "twitter_1": {
+        "recall": 1.0,
+        "precision": 0.6666666666666666,
+        "accuracy": 100.0
+    }
+}

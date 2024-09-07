@@ -1,0 +1,27 @@
+icfp_1
+Response:
+# Table Inst
+1. What is the name of the institution with instID 1?
+2. Which countries have institutions in the database?
+3. How many institutions are there in a specific country? 
+!
+
+# Table Authors
+1. What is the full name of the author with authID 1?
+2. How many authors are there in the database?
+3. Are there any authors with the same last name?
+!
+
+# Table Papers
+1. What is the title of the paper with paperID 1?
+2. How many papers are there in the database?
+3. What are the titles of papers that have a specific keyword in their title? 
+!
+
+# Table Authorship
+1. Which author(s) wrote the paper with paperID 1?
+2. How many papers are authored by the author with authID 1?
+3. What is the affiliation of the authors of a specific paper? 
+! 
+
+

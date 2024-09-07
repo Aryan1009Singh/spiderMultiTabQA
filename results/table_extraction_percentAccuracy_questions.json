@@ -1,0 +1,667 @@
+{
+    "activity_1": {
+        "Accuracy": 47.91666666666667,
+        "Correct": 23,
+        "Incorrect": 25
+    },
+    "aircraft": {
+        "Accuracy": 45.83333333333333,
+        "Correct": 11,
+        "Incorrect": 13
+    },
+    "allergy_1": {
+        "Accuracy": 100.0,
+        "Correct": 26,
+        "Incorrect": 0
+    },
+    "apartment_rentals": {
+        "Accuracy": 97.05882352941177,
+        "Correct": 33,
+        "Incorrect": 1
+    },
+    "architecture": {
+        "Accuracy": 100.0,
+        "Correct": 9,
+        "Incorrect": 0
+    },
+    "assets_maintenance": {
+        "Accuracy": 86.95652173913044,
+        "Correct": 20,
+        "Incorrect": 3
+    },
+    "baseball_1": {
+        "Accuracy": 55.769230769230774,
+        "Correct": 29,
+        "Incorrect": 23
+    },
+    "behavior_monitoring": {
+        "Accuracy": 95.45454545454545,
+        "Correct": 21,
+        "Incorrect": 1
+    },
+    "bike_1": {
+        "Accuracy": 100.0,
+        "Correct": 38,
+        "Incorrect": 0
+    },
+    "body_builder": {
+        "Accuracy": 100.0,
+        "Correct": 11,
+        "Incorrect": 0
+    },
+    "book_2": {
+        "Accuracy": 100.0,
+        "Correct": 4,
+        "Incorrect": 0
+    },
+    "browser_web": {
+        "Accuracy": 100.0,
+        "Correct": 9,
+        "Incorrect": 0
+    },
+    "candidate_poll": {
+        "Accuracy": 100.0,
+        "Correct": 12,
+        "Incorrect": 0
+    },
+    "chinook_1": {
+        "Accuracy": 0.0,
+        "Correct": 0,
+        "Incorrect": 52
+    },
+    "cinema": {
+        "Accuracy": 100.0,
+        "Correct": 6,
+        "Incorrect": 0
+    },
+    "city_record": {
+        "Accuracy": 100.0,
+        "Correct": 22,
+        "Incorrect": 0
+    },
+    "climbing": {
+        "Accuracy": 100.0,
+        "Correct": 12,
+        "Incorrect": 0
+    },
+    "club_1": {
+        "Accuracy": 100.0,
+        "Correct": 50,
+        "Incorrect": 0
+    },
+    "coffee_shop": {
+        "Accuracy": 100.0,
+        "Correct": 2,
+        "Incorrect": 0
+    },
+    "college_1": {
+        "Accuracy": 0.0,
+        "Correct": 0,
+        "Incorrect": 100
+    },
+    "college_2": {
+        "Accuracy": 46.96969696969697,
+        "Correct": 31,
+        "Incorrect": 35
+    },
+    "college_3": {
+        "Accuracy": 84.375,
+        "Correct": 27,
+        "Incorrect": 5
+    },
+    "company_employee": {
+        "Accuracy": 100.0,
+        "Correct": 5,
+        "Incorrect": 0
+    },
+    "company_office": {
+        "Accuracy": 100.0,
+        "Correct": 8,
+        "Incorrect": 0
+    },
+    "county_public_safety": {
+        "Accuracy": 100.0,
+        "Correct": 14,
+        "Incorrect": 0
+    },
+    "cre_Docs_and_Epenses": {
+        "Accuracy": 85.71428571428571,
+        "Correct": 24,
+        "Incorrect": 4
+    },
+    "cre_Doc_Control_Systems": {
+        "Accuracy": 100.0,
+        "Correct": 13,
+        "Incorrect": 0
+    },
+    "cre_Doc_Tracking_DB": {
+        "Accuracy": 100.0,
+        "Correct": 22,
+        "Incorrect": 0
+    },
+    "cre_Drama_Workshop_Groups": {
+        "Accuracy": 89.47368421052632,
+        "Correct": 34,
+        "Incorrect": 4
+    },
+    "cre_Theme_park": {
+        "Accuracy": 80.95238095238095,
+        "Correct": 34,
+        "Incorrect": 8
+    },
+    "csu_1": {
+        "Accuracy": 58.333333333333336,
+        "Correct": 21,
+        "Incorrect": 15
+    },
+    "culture_company": {
+        "Accuracy": 100.0,
+        "Correct": 6,
+        "Incorrect": 0
+    },
+    "customers_and_addresses": {
+        "Accuracy": 68.18181818181817,
+        "Correct": 30,
+        "Incorrect": 14
+    },
+    "customers_and_invoices": {
+        "Accuracy": 90.0,
+        "Correct": 36,
+        "Incorrect": 4
+    },
+    "customers_and_products_contacts": {
+        "Accuracy": 100.0,
+        "Correct": 7,
+        "Incorrect": 0
+    },
+    "customers_campaigns_ecommerce": {
+        "Accuracy": 71.42857142857143,
+        "Correct": 5,
+        "Incorrect": 2
+    },
+    "customers_card_transactions": {
+        "Accuracy": 100.0,
+        "Correct": 26,
+        "Incorrect": 0
+    },
+    "customer_complaints": {
+        "Accuracy": 100.0,
+        "Correct": 20,
+        "Incorrect": 0
+    },
+    "customer_deliveries": {
+        "Accuracy": 83.33333333333334,
+        "Correct": 5,
+        "Incorrect": 1
+    },
+    "debate": {
+        "Accuracy": 100.0,
+        "Correct": 6,
+        "Incorrect": 0
+    },
+    "decoration_competition": {
+        "Accuracy": 100.0,
+        "Correct": 7,
+        "Incorrect": 0
+    },
+    "department_management": {
+        "Accuracy": 100.0,
+        "Correct": 6,
+        "Incorrect": 0
+    },
+    "department_store": {
+        "Accuracy": 81.81818181818183,
+        "Correct": 36,
+        "Incorrect": 8
+    },
+    "device": {
+        "Accuracy": 100.0,
+        "Correct": 14,
+        "Incorrect": 0
+    },
+    "document_management": {
+        "Accuracy": 92.85714285714286,
+        "Correct": 13,
+        "Incorrect": 1
+    },
+    "dorm_1": {
+        "Accuracy": 45.0,
+        "Correct": 18,
+        "Incorrect": 22
+    },
+    "driving_school": {
+        "Accuracy": 86.66666666666667,
+        "Correct": 39,
+        "Incorrect": 6
+    },
+    "election": {
+        "Accuracy": 100.0,
+        "Correct": 30,
+        "Incorrect": 0
+    },
+    "election_representative": {
+        "Accuracy": 100.0,
+        "Correct": 7,
+        "Incorrect": 0
+    },
+    "entertainment_awards": {
+        "Accuracy": 100.0,
+        "Correct": 7,
+        "Incorrect": 0
+    },
+    "entrepreneur": {
+        "Accuracy": 100.0,
+        "Correct": 18,
+        "Incorrect": 0
+    },
+    "e_government": {
+        "Accuracy": 87.5,
+        "Correct": 14,
+        "Incorrect": 2
+    },
+    "e_learning": {
+        "Accuracy": 81.25,
+        "Correct": 39,
+        "Incorrect": 9
+    },
+    "farm": {
+        "Accuracy": 100.0,
+        "Correct": 10,
+        "Incorrect": 0
+    },
+    "film_rank": {
+        "Accuracy": 100.0,
+        "Correct": 16,
+        "Incorrect": 0
+    },
+    "flight_1": {
+        "Accuracy": 100.0,
+        "Correct": 26,
+        "Incorrect": 0
+    },
+    "flight_company": {
+        "Accuracy": 100.0,
+        "Correct": 8,
+        "Incorrect": 0
+    },
+    "formula_1": {
+        "Accuracy": 90.0,
+        "Correct": 45,
+        "Incorrect": 5
+    },
+    "game_1": {
+        "Accuracy": 100.0,
+        "Correct": 32,
+        "Incorrect": 0
+    },
+    "game_injury": {
+        "Accuracy": 100.0,
+        "Correct": 11,
+        "Incorrect": 0
+    },
+    "gas_company": {
+        "Accuracy": 100.0,
+        "Correct": 10,
+        "Incorrect": 0
+    },
+    "gymnast": {
+        "Accuracy": 100.0,
+        "Correct": 22,
+        "Incorrect": 0
+    },
+    "hospital_1": {
+        "Accuracy": 82.89473684210526,
+        "Correct": 63,
+        "Incorrect": 13
+    },
+    "hr_1": {
+        "Accuracy": 70.58823529411765,
+        "Correct": 24,
+        "Incorrect": 10
+    },
+    "inn_1": {
+        "Accuracy": 100.0,
+        "Correct": 18,
+        "Incorrect": 0
+    },
+    "insurance_and_eClaims": {
+        "Accuracy": 81.81818181818183,
+        "Correct": 18,
+        "Incorrect": 4
+    },
+    "insurance_fnol": {
+        "Accuracy": 55.00000000000001,
+        "Correct": 11,
+        "Incorrect": 9
+    },
+    "insurance_policies": {
+        "Accuracy": 100.0,
+        "Correct": 16,
+        "Incorrect": 0
+    },
+    "journal_committee": {
+        "Accuracy": 100.0,
+        "Correct": 9,
+        "Incorrect": 0
+    },
+    "loan_1": {
+        "Accuracy": 100.0,
+        "Correct": 34,
+        "Incorrect": 0
+    },
+    "local_govt_and_lot": {
+        "Accuracy": 100.0,
+        "Correct": 11,
+        "Incorrect": 0
+    },
+    "local_govt_in_alabama": {
+        "Accuracy": 100.0,
+        "Correct": 8,
+        "Incorrect": 0
+    },
+    "local_govt_mdm": {
+        "Accuracy": 33.33333333333333,
+        "Correct": 3,
+        "Incorrect": 6
+    },
+    "machine_repair": {
+        "Accuracy": 100.0,
+        "Correct": 10,
+        "Incorrect": 0
+    },
+    "manufactory_1": {
+        "Accuracy": 100.0,
+        "Correct": 20,
+        "Incorrect": 0
+    },
+    "manufacturer": {
+        "Accuracy": 100.0,
+        "Correct": 6,
+        "Incorrect": 0
+    },
+    "match_season": {
+        "Accuracy": 100.0,
+        "Correct": 30,
+        "Incorrect": 0
+    },
+    "medicine_enzyme_interaction": {
+        "Accuracy": 100.0,
+        "Correct": 20,
+        "Incorrect": 0
+    },
+    "mountain_photos": {
+        "Accuracy": 100.0,
+        "Correct": 9,
+        "Incorrect": 0
+    },
+    "movie_1": {
+        "Accuracy": 23.333333333333332,
+        "Correct": 14,
+        "Incorrect": 46
+    },
+    "musical": {
+        "Accuracy": 100.0,
+        "Correct": 12,
+        "Incorrect": 0
+    },
+    "music_1": {
+        "Accuracy": 100.0,
+        "Correct": 52,
+        "Incorrect": 0
+    },
+    "music_2": {
+        "Accuracy": 41.891891891891895,
+        "Correct": 31,
+        "Incorrect": 43
+    },
+    "music_4": {
+        "Accuracy": 100.0,
+        "Correct": 18,
+        "Incorrect": 0
+    },
+    "network_2": {
+        "Accuracy": 100.0,
+        "Correct": 40,
+        "Incorrect": 0
+    },
+    "news_report": {
+        "Accuracy": 100.0,
+        "Correct": 6,
+        "Incorrect": 0
+    },
+    "party_host": {
+        "Accuracy": 100.0,
+        "Correct": 10,
+        "Incorrect": 0
+    },
+    "party_people": {
+        "Accuracy": 100.0,
+        "Correct": 22,
+        "Incorrect": 0
+    },
+    "performance_attendance": {
+        "Accuracy": 100.0,
+        "Correct": 5,
+        "Incorrect": 0
+    },
+    "perpetrator": {
+        "Accuracy": 0.0,
+        "Correct": 0,
+        "Incorrect": 9
+    },
+    "phone_1": {
+        "Accuracy": 100.0,
+        "Correct": 15,
+        "Incorrect": 0
+    },
+    "phone_market": {
+        "Accuracy": 100.0,
+        "Correct": 6,
+        "Incorrect": 0
+    },
+    "pilot_record": {
+        "Accuracy": 100.0,
+        "Correct": 6,
+        "Incorrect": 0
+    },
+    "products_for_hire": {
+        "Accuracy": 75.0,
+        "Correct": 6,
+        "Incorrect": 2
+    },
+    "products_gen_characteristics": {
+        "Accuracy": 32.758620689655174,
+        "Correct": 19,
+        "Incorrect": 39
+    },
+    "product_catalog": {
+        "Accuracy": 60.0,
+        "Correct": 6,
+        "Incorrect": 4
+    },
+    "program_share": {
+        "Accuracy": 100.0,
+        "Correct": 10,
+        "Incorrect": 0
+    },
+    "protein_institute": {
+        "Accuracy": 100.0,
+        "Correct": 9,
+        "Incorrect": 0
+    },
+    "race_track": {
+        "Accuracy": 100.0,
+        "Correct": 12,
+        "Incorrect": 0
+    },
+    "railway": {
+        "Accuracy": 100.0,
+        "Correct": 5,
+        "Incorrect": 0
+    },
+    "restaurant_1": {
+        "Accuracy": 16.666666666666664,
+        "Correct": 1,
+        "Incorrect": 5
+    },
+    "riding_club": {
+        "Accuracy": 14.285714285714285,
+        "Correct": 1,
+        "Incorrect": 6
+    },
+    "roller_coaster": {
+        "Accuracy": 100.0,
+        "Correct": 6,
+        "Incorrect": 0
+    },
+    "sakila_1": {
+        "Accuracy": 95.23809523809523,
+        "Correct": 40,
+        "Incorrect": 2
+    },
+    "school_bus": {
+        "Accuracy": 100.0,
+        "Correct": 5,
+        "Incorrect": 0
+    },
+    "school_finance": {
+        "Accuracy": 100.0,
+        "Correct": 9,
+        "Incorrect": 0
+    },
+    "school_player": {
+        "Accuracy": 100.0,
+        "Correct": 10,
+        "Incorrect": 0
+    },
+    "scientist_1": {
+        "Accuracy": 100.0,
+        "Correct": 30,
+        "Incorrect": 0
+    },
+    "ship_1": {
+        "Accuracy": 100.0,
+        "Correct": 12,
+        "Incorrect": 0
+    },
+    "ship_mission": {
+        "Accuracy": 100.0,
+        "Correct": 8,
+        "Incorrect": 0
+    },
+    "shop_membership": {
+        "Accuracy": 100.0,
+        "Correct": 18,
+        "Incorrect": 0
+    },
+    "soccer_2": {
+        "Accuracy": 100.0,
+        "Correct": 38,
+        "Incorrect": 0
+    },
+    "solvency_ii": {
+        "Accuracy": 100.0,
+        "Correct": 5,
+        "Incorrect": 0
+    },
+    "sports_competition": {
+        "Accuracy": 75.0,
+        "Correct": 6,
+        "Incorrect": 2
+    },
+    "station_weather": {
+        "Accuracy": 100.0,
+        "Correct": 6,
+        "Incorrect": 0
+    },
+    "store_1": {
+        "Accuracy": 92.0,
+        "Correct": 46,
+        "Incorrect": 4
+    },
+    "store_product": {
+        "Accuracy": 21.428571428571427,
+        "Correct": 3,
+        "Incorrect": 11
+    },
+    "storm_record": {
+        "Accuracy": 100.0,
+        "Correct": 24,
+        "Incorrect": 0
+    },
+    "student_1": {
+        "Accuracy": 100.0,
+        "Correct": 28,
+        "Incorrect": 0
+    },
+    "student_assessment": {
+        "Accuracy": 94.5945945945946,
+        "Correct": 35,
+        "Incorrect": 2
+    },
+    "swimming": {
+        "Accuracy": 100.0,
+        "Correct": 11,
+        "Incorrect": 0
+    },
+    "theme_gallery": {
+        "Accuracy": 100.0,
+        "Correct": 18,
+        "Incorrect": 0
+    },
+    "tracking_grants_for_research": {
+        "Accuracy": 86.95652173913044,
+        "Correct": 40,
+        "Incorrect": 6
+    },
+    "tracking_orders": {
+        "Accuracy": 90.0,
+        "Correct": 36,
+        "Incorrect": 4
+    },
+    "tracking_share_transactions": {
+        "Accuracy": 87.5,
+        "Correct": 14,
+        "Incorrect": 2
+    },
+    "tracking_software_problems": {
+        "Accuracy": 53.125,
+        "Correct": 17,
+        "Incorrect": 15
+    },
+    "train_station": {
+        "Accuracy": 100.0,
+        "Correct": 8,
+        "Incorrect": 0
+    },
+    "university_basketball": {
+        "Accuracy": 100.0,
+        "Correct": 10,
+        "Incorrect": 0
+    },
+    "voter_2": {
+        "Accuracy": 100.0,
+        "Correct": 28,
+        "Incorrect": 0
+    },
+    "wedding": {
+        "Accuracy": 100.0,
+        "Correct": 6,
+        "Incorrect": 0
+    },
+    "wine_1": {
+        "Accuracy": 100.0,
+        "Correct": 30,
+        "Incorrect": 0
+    },
+    "workshop_paper": {
+        "Accuracy": 100.0,
+        "Correct": 10,
+        "Incorrect": 0
+    },
+    "wrestler": {
+        "Accuracy": 100.0,
+        "Correct": 10,
+        "Incorrect": 0
+    }
+}

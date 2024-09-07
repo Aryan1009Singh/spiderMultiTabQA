@@ -1,0 +1,222 @@
+{
+    "apartment_rentals": {
+        "recall": 1.0,
+        "precision": 0.2753623188405797,
+        "accuracy": 100.0
+    },
+    "assets_maintenance": {
+        "recall": 0.9508196721311475,
+        "precision": 0.3258426966292135,
+        "accuracy": 90.32258064516128
+    },
+    "baseball_1": {
+        "recall": 0.782608695652174,
+        "precision": 0.23275862068965517,
+        "accuracy": 63.41463414634146
+    },
+    "behavior_monitoring": {
+        "recall": 1.0,
+        "precision": 0.2581967213114754,
+        "accuracy": 100.0
+    },
+    "college_2": {
+        "recall": 0.8538461538461538,
+        "precision": 0.22981366459627328,
+        "accuracy": 77.64705882352942
+    },
+    "college_3": {
+        "recall": 0.9913793103448276,
+        "precision": 0.26744186046511625,
+        "accuracy": 98.64864864864865
+    },
+    "cre_Docs_and_Epenses": {
+        "recall": 1.0,
+        "precision": 0.23728813559322035,
+        "accuracy": 100.0
+    },
+    "cre_Doc_Control_Systems": {
+        "recall": 1.0,
+        "precision": 0.24468085106382978,
+        "accuracy": 100.0
+    },
+    "cre_Doc_Tracking_DB": {
+        "recall": 1.0,
+        "precision": 0.21839080459770116,
+        "accuracy": 100.0
+    },
+    "cre_Drama_Workshop_Groups": {
+        "recall": 0.9435483870967742,
+        "precision": 0.24946695095948826,
+        "accuracy": 91.46341463414635
+    },
+    "cre_Theme_park": {
+        "recall": 0.9117647058823529,
+        "precision": 0.2572614107883817,
+        "accuracy": 86.90476190476191
+    },
+    "csu_1": {
+        "recall": 0.990909090909091,
+        "precision": 0.28534031413612565,
+        "accuracy": 98.57142857142858
+    },
+    "customers_and_addresses": {
+        "recall": 1.0,
+        "precision": 0.32193158953722334,
+        "accuracy": 100.0
+    },
+    "customers_and_invoices": {
+        "recall": 0.9919354838709677,
+        "precision": 0.27455357142857145,
+        "accuracy": 98.78048780487805
+    },
+    "customers_and_products_contacts": {
+        "recall": 1.0,
+        "precision": 0.2857142857142857,
+        "accuracy": 100.0
+    },
+    "customers_campaigns_ecommerce": {
+        "recall": 1.0,
+        "precision": 0.26506024096385544,
+        "accuracy": 100.0
+    },
+    "customer_deliveries": {
+        "recall": 1.0,
+        "precision": 0.24742268041237114,
+        "accuracy": 100.0
+    },
+    "department_store": {
+        "recall": 0.9444444444444444,
+        "precision": 0.2725450901803607,
+        "accuracy": 90.9090909090909
+    },
+    "document_management": {
+        "recall": 1.0,
+        "precision": 0.23048327137546468,
+        "accuracy": 100.0
+    },
+    "driving_school": {
+        "recall": 1.0,
+        "precision": 0.26848249027237353,
+        "accuracy": 100.0
+    },
+    "e_government": {
+        "recall": 1.0,
+        "precision": 0.2542372881355932,
+        "accuracy": 100.0
+    },
+    "e_learning": {
+        "recall": 0.9923076923076923,
+        "precision": 0.2898876404494382,
+        "accuracy": 98.78048780487805
+    },
+    "formula_1": {
+        "recall": 0.9256756756756757,
+        "precision": 0.31136363636363634,
+        "accuracy": 86.25
+    },
+    "hospital_1": {
+        "recall": 0.8954545454545455,
+        "precision": 0.33503401360544216,
+        "accuracy": 77.0
+    },
+    "hr_1": {
+        "recall": 0.9825581395348837,
+        "precision": 0.21806451612903227,
+        "accuracy": 97.58064516129032
+    },
+    "insurance_and_eClaims": {
+        "recall": 0.9848484848484849,
+        "precision": 0.28761061946902655,
+        "accuracy": 97.5
+    },
+    "insurance_fnol": {
+        "recall": 1.0,
+        "precision": 0.3225806451612903,
+        "accuracy": 100.0
+    },
+    "local_govt_and_lot": {
+        "recall": 1.0,
+        "precision": 0.28865979381443296,
+        "accuracy": 100.0
+    },
+    "local_govt_mdm": {
+        "recall": 0.8333333333333334,
+        "precision": 0.2564102564102564,
+        "accuracy": 71.42857142857143
+    },
+    "music_2": {
+        "recall": 0.9764150943396226,
+        "precision": 0.36,
+        "accuracy": 95.0
+    },
+    "products_for_hire": {
+        "recall": 0.9629629629629629,
+        "precision": 0.25742574257425743,
+        "accuracy": 94.44444444444444
+    },
+    "products_gen_characteristics": {
+        "recall": 0.9666666666666667,
+        "precision": 0.3901345291479821,
+        "accuracy": 93.02325581395348
+    },
+    "sakila_1": {
+        "recall": 0.9538461538461539,
+        "precision": 0.2743362831858407,
+        "accuracy": 93.90243902439023
+    },
+    "solvency_ii": {
+        "recall": 1.0,
+        "precision": 0.23809523809523808,
+        "accuracy": 100.0
+    },
+    "store_1": {
+        "recall": 0.9545454545454546,
+        "precision": 0.2588597842835131,
+        "accuracy": 94.64285714285714
+    },
+    "student_assessment": {
+        "recall": 1.0,
+        "precision": 0.2917933130699088,
+        "accuracy": 100.0
+    },
+    "tracking_grants_for_research": {
+        "recall": 0.9507042253521126,
+        "precision": 0.3103448275862069,
+        "accuracy": 93.58974358974359
+    },
+    "tracking_orders": {
+        "recall": 1.0,
+        "precision": 0.32463768115942027,
+        "accuracy": 100.0
+    },
+    "tracking_share_transactions": {
+        "recall": 1.0,
+        "precision": 0.26339285714285715,
+        "accuracy": 100.0
+    },
+    "tracking_software_problems": {
+        "recall": 0.9761904761904762,
+        "precision": 0.3166023166023166,
+        "accuracy": 95.83333333333334
+    },
+    "chinook_1": {
+        "recall": 1.0,
+        "precision": 0.28512396694214875,
+        "accuracy": 100.0
+    },
+    "college_1": {
+        "recall": 0.9101796407185628,
+        "precision": 0.3282937365010799,
+        "accuracy": 81.70731707317073
+    },
+    "company_1": {
+        "recall": 1.0,
+        "precision": 0.21621621621621623,
+        "accuracy": 100.0
+    },
+    "soccer_1": {
+        "recall": 0.9583333333333334,
+        "precision": 0.323943661971831,
+        "accuracy": 92.85714285714286
+    }
+}
