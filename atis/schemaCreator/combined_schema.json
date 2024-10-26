@@ -1,0 +1,1430 @@
+{
+    "aircraft": {
+        "columns": [
+            {
+                "name": "aircraft_code",
+                "type": "varchar(3)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "aircraft_description",
+                "type": "varchar(50)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "manufacturer",
+                "type": "varchar(30)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "basic_type",
+                "type": "varchar(30)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "engines",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "propulsion",
+                "type": "varchar(10)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "wide_body",
+                "type": "varchar(3)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "wing_span",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "length",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "weight",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "capacity",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "pay_load",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "cruising_speed",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "range_miles",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "pressurized",
+                "type": "varchar(3)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "aircraft",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "aircraft",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "aircraft",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "aircraft_aircraft_description",
+                "column": "aircraft_description"
+            },
+            {
+                "name": "aircraft_basic_type",
+                "column": "basic_type"
+            },
+            {
+                "name": "aircraft_propulsion",
+                "column": "propulsion"
+            },
+            {
+                "name": "aircraft_manufacturer",
+                "column": "manufacturer"
+            },
+            {
+                "name": "aircraft_code",
+                "column": "aircraft_code"
+            },
+            {
+                "name": "engines",
+                "column": "engines"
+            },
+            {
+                "name": "wide_body",
+                "column": "wide_body"
+            },
+            {
+                "name": "wing_span",
+                "column": "wing_span"
+            },
+            {
+                "name": "length",
+                "column": "length"
+            },
+            {
+                "name": "weight",
+                "column": "weight"
+            },
+            {
+                "name": "capacity",
+                "column": "capacity"
+            },
+            {
+                "name": "pay_load",
+                "column": "pay_load"
+            },
+            {
+                "name": "cruising_speed",
+                "column": "cruising_speed"
+            },
+            {
+                "name": "range_miles",
+                "column": "range_miles"
+            },
+            {
+                "name": "pressurized",
+                "column": "pressurized"
+            },
+            {
+                "name": "aircraft_description",
+                "column": "aircraft_description"
+            },
+            {
+                "name": "manufacturer",
+                "column": "manufacturer"
+            },
+            {
+                "name": "basic_type",
+                "column": "basic_type"
+            },
+            {
+                "name": "aircraft_code_2",
+                "column": "aircraft_code"
+            }
+        ],
+        "primary_key": null
+    },
+    "airline": {
+        "columns": [
+            {
+                "name": "airline_code",
+                "type": "varchar(2)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "airline",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "airline",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "airline",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "airline_airline_name",
+                "column": "airline_name"
+            },
+            {
+                "name": "airline_code",
+                "column": "airline_code"
+            }
+        ],
+        "primary_key": null
+    },
+    "airport": {
+        "columns": [
+            {
+                "name": "airport_code",
+                "type": "varchar(3)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "state_code",
+                "type": "varchar(2)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "country_name",
+                "type": "varchar(6)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "time_zone_code",
+                "type": "varchar(3)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "minimum_connect_time",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "airport",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "airport",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "airport",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "airport_airport_code",
+                "column": "airport_code"
+            },
+            {
+                "name": "airport_airport_name",
+                "column": "airport_name"
+            },
+            {
+                "name": "airport_airport_location",
+                "column": "airport_location"
+            },
+            {
+                "name": "state_code",
+                "column": "state_code"
+            },
+            {
+                "name": "country_name",
+                "column": "country_name"
+            },
+            {
+                "name": "time_zone_code",
+                "column": "time_zone_code"
+            },
+            {
+                "name": "minimum_connect_time",
+                "column": "minimum_connect_time"
+            }
+        ],
+        "primary_key": null
+    },
+    "airport_service": {
+        "columns": [
+            {
+                "name": "city_code",
+                "type": "varchar(4)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "airport_code",
+                "type": "varchar(3)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "miles_distant",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "direction",
+                "type": "varchar(2)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "minutes_distant",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "airport_service",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "airport_service",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "airport_service",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "airport_code",
+                "column": "airport_code"
+            },
+            {
+                "name": "city_code",
+                "column": "city_code"
+            },
+            {
+                "name": "miles_distant",
+                "column": "miles_distant"
+            },
+            {
+                "name": "minutes_distant",
+                "column": "minutes_distant"
+            },
+            {
+                "name": "direction",
+                "column": "direction"
+            }
+        ],
+        "primary_key": null
+    },
+    "city": {
+        "columns": [
+            {
+                "name": "city_code",
+                "type": "varchar(4)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "city_name",
+                "type": "varchar(18)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "state_code",
+                "type": "varchar(2)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "country_name",
+                "type": "varchar(6)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "time_zone_code",
+                "type": "varchar(3)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "city",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "city",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "city",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "city_state_code",
+                "column": "state_code"
+            },
+            {
+                "name": "city_code",
+                "column": "city_code"
+            },
+            {
+                "name": "city_name",
+                "column": "city_name"
+            },
+            {
+                "name": "country_name",
+                "column": "country_name"
+            },
+            {
+                "name": "time_zone_code",
+                "column": "time_zone_code"
+            }
+        ],
+        "primary_key": null
+    },
+    "class_of_service": {
+        "columns": [
+            {
+                "name": "booking_class",
+                "type": "varchar(2)",
+                "constraints": "NOT NULL"
+            },
+            {
+                "name": "rank",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "class_of_service",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "class_of_service",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "class_of_service",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "rank",
+                "column": "rank"
+            }
+        ],
+        "primary_key": "booking_class"
+    },
+    "code_description": {
+        "columns": [
+            {
+                "name": "code",
+                "type": "varchar(4)",
+                "constraints": "NOT NULL"
+            },
+            {
+                "name": "code_description",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "code_description",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "code_description",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [],
+        "primary_key": "code"
+    },
+    "compartment_class": {
+        "columns": [
+            {
+                "name": "compartment",
+                "type": "varchar(5)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "class_type",
+                "type": "varchar(8)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "compartment_class",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "compartment_class",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "compartment_class",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "compartment",
+                "column": "compartment"
+            },
+            {
+                "name": "class_type",
+                "column": "class_type"
+            }
+        ],
+        "primary_key": null
+    },
+    "date_day": {
+        "columns": [
+            {
+                "name": "month_number",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "day_number",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "year",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "day_name",
+                "type": "varchar(10)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "date_day",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "date_day",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "date_day",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "month_number",
+                "column": "month_number"
+            },
+            {
+                "name": "day_number",
+                "column": "day_number"
+            },
+            {
+                "name": "year",
+                "column": "year"
+            },
+            {
+                "name": "day_name",
+                "column": "day_name"
+            }
+        ],
+        "primary_key": null
+    },
+    "days": {
+        "columns": [
+            {
+                "name": "days_code",
+                "type": "varchar(20)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "day_name",
+                "type": "varchar(10)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "days",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "days",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "days",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "days_code",
+                "column": "days_code"
+            },
+            {
+                "name": "day_name",
+                "column": "day_name"
+            }
+        ],
+        "primary_key": null
+    },
+    "dual_carrier": {
+        "columns": [
+            {
+                "name": "main_airline",
+                "type": "varchar(2)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "low_flight_number",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "high_flight_number",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "dual_airline",
+                "type": "varchar(2)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "dual_carrier",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "dual_carrier",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "dual_carrier",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "main_airline",
+                "column": "main_airline"
+            },
+            {
+                "name": "low_flight_number",
+                "column": "low_flight_number"
+            },
+            {
+                "name": "high_flight_number",
+                "column": "high_flight_number"
+            },
+            {
+                "name": "dual_airline",
+                "column": "dual_airline"
+            }
+        ],
+        "primary_key": null
+    },
+    "equipment_sequence": {
+        "columns": [
+            {
+                "name": "aircraft_code_sequence",
+                "type": "varchar(12)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "aircraft_code",
+                "type": "varchar(3)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "equipment_sequence",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "equipment_sequence",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "equipment_sequence",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "aircraft_code",
+                "column": "aircraft_code"
+            },
+            {
+                "name": "aircraft_code_sequence",
+                "column": "aircraft_code_sequence"
+            }
+        ],
+        "primary_key": null
+    },
+    "fare": {
+        "columns": [
+            {
+                "name": "fare_id",
+                "type": "int(11)",
+                "constraints": "NOT NULL"
+            },
+            {
+                "name": "from_airport",
+                "type": "varchar(3)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "to_airport",
+                "type": "varchar(3)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "one_direction_cost",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "round_trip_cost",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "round_trip_required",
+                "type": "varchar(3)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "fare",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "fare",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "fare",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "fare_restriction_code",
+                "column": "restriction_code"
+            },
+            {
+                "name": "fare_fare_basis_code",
+                "column": "fare_basis_code"
+            },
+            {
+                "name": "fare_fare_airline",
+                "column": "fare_airline"
+            },
+            {
+                "name": "one_direction_cost",
+                "column": "one_direction_cost"
+            },
+            {
+                "name": "round_trip_cost",
+                "column": "round_trip_cost"
+            },
+            {
+                "name": "round_trip_required",
+                "column": "round_trip_required"
+            },
+            {
+                "name": "from_airport",
+                "column": "from_airport"
+            },
+            {
+                "name": "to_airport",
+                "column": "to_airport"
+            }
+        ],
+        "primary_key": "fare_id"
+    },
+    "fare_basis": {
+        "columns": [
+            {
+                "name": "fare_basis",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "fare_basis",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "fare_basis",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "fare_basis_premium",
+                "column": "premium"
+            },
+            {
+                "name": "fare_basis_class_type",
+                "column": "class_type"
+            },
+            {
+                "name": "fare_basis_season",
+                "column": "season"
+            },
+            {
+                "name": "fare_basis_booking_class",
+                "column": "booking_class"
+            },
+            {
+                "name": "fare_basis_night",
+                "column": "night"
+            },
+            {
+                "name": "fare_basis_discounted",
+                "column": "discounted"
+            },
+            {
+                "name": "fare_basis_fare_basis_code",
+                "column": "fare_basis_code"
+            },
+            {
+                "name": "fare_basis_economy",
+                "column": "economy"
+            }
+        ],
+        "primary_key": null
+    },
+    "flight": {
+        "columns": [
+            {
+                "name": "flight_id",
+                "type": "int(11)",
+                "constraints": "NOT NULL"
+            },
+            {
+                "name": "from_airport",
+                "type": "varchar(3)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "to_airport",
+                "type": "varchar(3)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "departure_time",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "arrival_time",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "airline_code",
+                "type": "varchar(3)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "flight_number",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "stops",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "connections",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "time_elapsed",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "flight",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "flight",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "flight",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "flight",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "flight_aircraft_code_sequence",
+                "column": "aircraft_code_sequence"
+            },
+            {
+                "name": "flight_dual_carrier",
+                "column": "dual_carrier"
+            },
+            {
+                "name": "flight_flight_days",
+                "column": "flight_days"
+            },
+            {
+                "name": "flight_airline_flight",
+                "column": "airline_flight"
+            },
+            {
+                "name": "flight_airline_code",
+                "column": "airline_code"
+            },
+            {
+                "name": "flight_meal_code",
+                "column": "meal_code"
+            },
+            {
+                "name": "departure_time",
+                "column": "departure_time"
+            },
+            {
+                "name": "arrival_time",
+                "column": "arrival_time"
+            },
+            {
+                "name": "flight_number",
+                "column": "flight_number"
+            },
+            {
+                "name": "stops",
+                "column": "stops"
+            },
+            {
+                "name": "connections",
+                "column": "connections"
+            },
+            {
+                "name": "time_elapsed",
+                "column": "time_elapsed"
+            },
+            {
+                "name": "airline_code",
+                "column": "airline_code"
+            },
+            {
+                "name": "from_airport",
+                "column": "from_airport"
+            },
+            {
+                "name": "to_airport",
+                "column": "to_airport"
+            }
+        ],
+        "primary_key": "flight_id"
+    },
+    "flight_fare": {
+        "columns": [
+            {
+                "name": "flight_id",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "fare_id",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "flight_fare",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "flight_fare",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "flight_fare",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "flight_fare",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "flight_id",
+                "column": "flight_id"
+            },
+            {
+                "name": "fare_id",
+                "column": "fare_id"
+            }
+        ],
+        "primary_key": null
+    },
+    "flight_leg": {
+        "columns": [
+            {
+                "name": "flight_id",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "leg_number",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "leg_flight",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "flight_leg",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "flight_leg",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "flight_leg",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "flight_id",
+                "column": "flight_id"
+            },
+            {
+                "name": "leg_number",
+                "column": "leg_number"
+            },
+            {
+                "name": "leg_flight",
+                "column": "leg_flight"
+            }
+        ],
+        "primary_key": null
+    },
+    "flight_stop": {
+        "columns": [
+            {
+                "name": "flight_id",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "stop_number",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "arrival_time",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "arrival_flight_number",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "departure_time",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "departure_flight_number",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "stop_time",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "flight_stop",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "flight_stop",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "flight_stop",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "flight_stop_departure_airline",
+                "column": "departure_airline"
+            },
+            {
+                "name": "flight_stop_stop_days",
+                "column": "stop_days"
+            },
+            {
+                "name": "flight_stop_stop_airport",
+                "column": "stop_airport"
+            },
+            {
+                "name": "flight_stop_arrival_airline",
+                "column": "arrival_airline"
+            },
+            {
+                "name": "flight_id",
+                "column": "flight_id"
+            }
+        ],
+        "primary_key": null
+    },
+    "food_service": {
+        "columns": [
+            {
+                "name": "meal_number",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "meal_description",
+                "type": "varchar(10)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "food_service",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "food_service",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "food_service",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "food_service_meal_code",
+                "column": "meal_code"
+            },
+            {
+                "name": "food_service_compartment",
+                "column": "compartment"
+            },
+            {
+                "name": "meal_number",
+                "column": "meal_number"
+            },
+            {
+                "name": "meal_description",
+                "column": "meal_description"
+            }
+        ],
+        "primary_key": null
+    },
+    "ground_service": {
+        "columns": [
+            {
+                "name": "ground_fare",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "ground_service",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "ground_service",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "ground_service",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "ground_service_airport_code",
+                "column": "airport_code"
+            },
+            {
+                "name": "ground_service_transport_type",
+                "column": "transport_type"
+            },
+            {
+                "name": "ground_service_city_code",
+                "column": "city_code"
+            }
+        ],
+        "primary_key": null
+    },
+    "month": {
+        "columns": [
+            {
+                "name": "month_number",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "month",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "month",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "month",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [],
+        "primary_key": null
+    },
+    "restriction": {
+        "columns": [
+            {
+                "name": "advance_purchase",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "minimum_stay",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "maximum_stay",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "restriction",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "restriction",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "restriction",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "restriction_stopovers",
+                "column": "stopovers"
+            },
+            {
+                "name": "restriction_restriction_code",
+                "column": "restriction_code"
+            },
+            {
+                "name": "restriction_application",
+                "column": "application"
+            },
+            {
+                "name": "restriction_saturday_stay_required",
+                "column": "saturday_stay_required"
+            }
+        ],
+        "primary_key": null
+    },
+    "state": {
+        "columns": [
+            {
+                "name": "state",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "state",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "state",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "state_state_code",
+                "column": "state_code"
+            },
+            {
+                "name": "state_state_name",
+                "column": "state_name"
+            }
+        ],
+        "primary_key": null
+    },
+    "time_interval": {
+        "columns": [
+            {
+                "name": "begin_time",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "end_time",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "time_interval",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "time_interval",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "time_interval",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "time_interval_period",
+                "column": "period"
+            }
+        ],
+        "primary_key": null
+    },
+    "time_zone": {
+        "columns": [
+            {
+                "name": "hours_from_gmt",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "time_zone",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "time_zone",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "time_zone",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [
+            {
+                "name": "time_zone_time_zone_name",
+                "column": "time_zone_name"
+            },
+            {
+                "name": "time_zone_time_zone_code",
+                "column": "time_zone_code"
+            }
+        ],
+        "primary_key": null
+    }
+}

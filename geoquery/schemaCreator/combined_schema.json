@@ -1,0 +1,209 @@
+{
+    "border_info": {
+        "columns": [
+            {
+                "name": "border_info",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "border_info",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "border_info",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [],
+        "primary_key": null
+    },
+    "city": {
+        "columns": [
+            {
+                "name": "population",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "country_name",
+                "type": "varchar(3)",
+                "constraints": "NOT NULL"
+            },
+            {
+                "name": "city",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "city",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "city",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [],
+        "primary_key": null
+    },
+    "highlow": {
+        "columns": [
+            {
+                "name": "highlow",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "highlow",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "highlow",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [],
+        "primary_key": null
+    },
+    "lake": {
+        "columns": [
+            {
+                "name": "area",
+                "type": "double",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "country_name",
+                "type": "varchar(3)",
+                "constraints": "NOT NULL"
+            },
+            {
+                "name": "lake",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "lake",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "lake",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [],
+        "primary_key": null
+    },
+    "mountain": {
+        "columns": [
+            {
+                "name": "mountain_altitude",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "country_name",
+                "type": "varchar(3)",
+                "constraints": "NOT NULL"
+            },
+            {
+                "name": "mountain",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "mountain",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "mountain",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [],
+        "primary_key": null
+    },
+    "river": {
+        "columns": [
+            {
+                "name": "length",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "country_name",
+                "type": "varchar(3)",
+                "constraints": "NOT NULL"
+            },
+            {
+                "name": "river",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "river",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "river",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [],
+        "primary_key": null
+    },
+    "state": {
+        "columns": [
+            {
+                "name": "population",
+                "type": "int(11)",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "area",
+                "type": "double",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "country_name",
+                "type": "varchar(3)",
+                "constraints": "NOT NULL"
+            },
+            {
+                "name": "density",
+                "type": "double",
+                "constraints": "DEFAULT NULL"
+            },
+            {
+                "name": "state",
+                "type": "DISABLE",
+                "constraints": null
+            },
+            {
+                "name": "state",
+                "type": "VALUES",
+                "constraints": null
+            },
+            {
+                "name": "state",
+                "type": "ENABLE",
+                "constraints": null
+            }
+        ],
+        "keys": [],
+        "primary_key": null
+    }
+}
